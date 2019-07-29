@@ -1,2 +1,7 @@
-# High_Altitude_Balloon_Experiments
-High Altitude Balloon Experiments
+# High Altitude Balloon Experiments #
+
+
+
+*Probes:*
+ - PaPe I :   400gr
+ - uPape I:    20gr
